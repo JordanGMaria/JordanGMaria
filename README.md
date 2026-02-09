@@ -1,16 +1,35 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1919e6&height=120&section=header"/>
 
-<!--
-**JordanGMaria/JordanGMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" >
+  Olá, sou Jordan Gonçalves
+</h1>
 
-Here are some ideas to get you started:
+<p align="center" >
+  Sou <b>desenvolvedor fullstack, empresário e criador de soluções</b>.<br/>
+  Já fui desenvolvedor frontend, mobile, fullstack, tech lead e gerente de tecnologia.<br/> Hoje utilizo meu conhecimento de desenvolvimento para <b>criar soluções e empreender</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+  <a href="https://www.linkedin.com/in/jordan-gmaria" target="_blank">
+      <img alt="Icon para LinkedIn" height="5%" width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div> 
+
+<div align="center">
+
+<h3> :rocket: &nbsp;Stack Principal </h3>
+
+**Desenvolvimento / DB**
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,vue,react,nextjs,nuxtjs,mongodb,mysql,tailwind)](https://skillicons.dev)
+  
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,rabbitmq,elasticsearch,aws,docker,git,bitbucket,github)](https://skillicons.dev)
+  <br/>
+<br/>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1919e6&height=120&section=footer"/>
